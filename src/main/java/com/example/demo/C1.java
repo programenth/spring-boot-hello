@@ -8,7 +8,7 @@ public class C1 {
 	
 	@GetMapping
 	public String home() {
-		return "hello1";
+		return "hello2 Raj and Anu : )";
 	}
 
 }
